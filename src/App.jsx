@@ -28,7 +28,6 @@ function App() {
     <div className="bg-[#F6F8FC] h-screen w-screen overflow-hidden">
       <Navbar />
       <RouterProvider router={router} />
-      <Sidebar />
     </div>
   );
 }
